@@ -1,6 +1,6 @@
 # Sistema de Suporte T.I da Pro Ocupacional
 
-Este é um sistema desenvolvido para facilitar a abertura de chamados de suporte T.I na empresa Pro Ocupacional. O sistema permite que os funcionários solicitem assistência T.I de forma rápida e eficiente, além de fornecer informações úteis sobre o sistema e hardware do computador para melhor organização e suporte por parte da equipe de T.I.
+Este é um sistema desenvolvido para facilitar a abertura de chamados de Suporte T.I na empresa Pro Ocupacional. O sistema permite que os funcionários solicitem assistência T.I de forma rápida e eficiente, além de fornecer informações úteis sobre o sistema e hardware do computador para melhor organização e suporte por parte da equipe de Suporte T.I.
 
 ## Funcionalidades
 
